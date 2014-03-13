@@ -1347,18 +1347,6 @@
          offset="1"
          id="stop4058-0-6-22-3" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter4313"
-       x="-0.12361865"
-       width="1.2472373"
-       y="-0.116508"
-       height="1.233016">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="16.528025"
-         id="feGaussianBlur4315" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4054-3-1-5"
@@ -1452,19 +1440,6 @@
          offset="1"
          id="stop5517" />
     </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5440"
-       x="-0.12770714"
-       width="1.2554142"
-       y="-0.11298603"
-       height="1.2259721">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="17.074664"
-         id="feGaussianBlur5442" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4054-3-1-0-9"
@@ -1502,7 +1477,7 @@
          offset="0"
          id="stop5515-8" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.39215687;"
+         style="stop-color:#414141;stop-opacity:1;"
          offset="1"
          id="stop5517-9" />
     </linearGradient>
@@ -1545,7 +1520,7 @@
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
      inkscape:zoom="16.000001"
-     inkscape:cx="1.7355446"
+     inkscape:cx="15.766794"
      inkscape:cy="23.359057"
      inkscape:window-x="0"
      inkscape:window-y="20"
