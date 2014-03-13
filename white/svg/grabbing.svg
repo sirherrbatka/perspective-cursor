@@ -1279,7 +1279,7 @@
          offset="0"
          id="stop6289" />
       <stop
-         style="stop-color:#323232;stop-opacity:0.33333334;"
+         style="stop-color:#555555;stop-opacity:0.33333334;"
          offset="1"
          id="stop6291" />
     </linearGradient>
@@ -1312,9 +1312,9 @@
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
-     inkscape:zoom="32"
-     inkscape:cx="21.498312"
-     inkscape:cy="15.357872"
+     inkscape:zoom="22.627417"
+     inkscape:cx="19.927574"
+     inkscape:cy="10.733743"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
