@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="vertical-text.svg"
+   height="100%"
+   width="100%"
+   inkscape:version="0.48.4 r9939"
+   id="svg2"
+   viewBox="0 0 36 36"
+   version="1.0">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="981"
+     id="namedview22"
+     showgrid="true"
+     inkscape:zoom="6.9532165"
+     inkscape:cx="24.394376"
+     inkscape:cy="-9.4158372"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-grids="true"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       snapvisiblegridlinesonly="true"
+       enabled="true"
+       visible="true"
+       empspacing="4"
+       id="grid3003"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24">
+    <linearGradient
+       id="linearGradient3792">
+      <stop
+         id="stop3794"
+         offset="0"
+         style="stop-color:#ec687b;stop-opacity:1;" />
+      <stop
+         id="stop3796"
+         offset="1"
+         style="stop-color:#911324;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5322">
+      <stop
+         id="stop5324"
+         offset="0"
+         style="stop-color:#ec687b;stop-opacity:1;" />
+      <stop
+         id="stop5326"
+         offset="1"
+         style="stop-color:#b91132;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="24"
+       x2="24"
+       y1="0"
+       x1="0"
+       id="linearGradient5328"
+       xlink:href="#linearGradient5322"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(-19.840926,-1.4984563)"
+       y2="24"
+       x2="24"
+       y1="0"
+       x1="0"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient2989"
+       xlink:href="#linearGradient5322"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="matrix(0.6889488,0,0,1.157924,3.7326153,-1.8950884)"
+       y2="4"
+       x2="9.6090202"
+       y1="20"
+       x1="14.39098"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3804"
+       xlink:href="#linearGradient3792"
+       inkscape:collect="always" />
+  </defs>
+  <g
+     transform="matrix(0,1,-1,0,34.875,-227.23723)"
+     style="display:inline"
+     id="g4520">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.65;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 241.23723,8.375 0,1 2,0 0,1 1,0 0,13 -1,0 0,1 -2,0 0,1 3,0 0,-1 1,0 0,1 3,0 0,-1 -2,0 0,-1 -1,0 0,-13 1,0 0,-1 2,0 0,-1 -3,0 0,1 -1,0 0,-1 -3,0 z"
+       id="path3792" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect3006"
+       d="m 241.23723,8.375 0,1 2,0 0,1 1,0 0,13 -1,0 0,1 -2,0 0,1 3,0 0,-1 1,0 0,1 3,0 0,-1 -2,0 0,-1 -1,0 0,-13 1,0 0,-1 2,0 0,-1 -3,0 0,1 -1,0 0,-1 -3,0 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+</svg>

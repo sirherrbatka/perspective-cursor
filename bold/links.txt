@@ -1,0 +1,95 @@
+# Do not run this file, it is sourced by 'build.sh'.
+# We make these links in order to have a complete
+# cursor theme integrating (almost) all the legacy 
+# X11/Qt/Mozilla cursor names.
+#
+# Thanks to the creators and maintainers of
+# ComixCursors for compiling all the needed symlinks
+# to make a complete theme.
+
+ln -sf ew-resize e-resize
+ln -sf ew-resize w-resize
+ln -sf ns-resize n-resize
+ln -sf ns-resize s-resize
+ln -sf nwse-resize nw-resize
+ln -sf nwse-resize se-resize
+ln -sf nesw-resize sw-resize
+ln -sf nesw-resize ne-resize
+
+ln -sf ns-resize 00008160000006810000408080010102
+ln -sf ew-resize 028006030e0e7ebffc7f7070c0600140
+ln -sf no-drop 03b6e0fcb3499374a867c041f52298f0
+ln -sf wait 0426c94ea35c87780ff01dc239897213
+ln -sf col-resize 043a9f68147c53184671403ffa811cc5
+ln -sf vertical-text 048008013003cff3c00c801001200000
+ln -sf alias 0876e1c15ff2fc01f906f1c363074c0f
+ln -sf progress 08e8e1c95fe2fc01f976f1e063a24ccd
+ln -sf copy 08ffe1cb5fe6fc01f906f1c063814ccf
+ln -sf context-menu 08ffe1e65f80fcfdf9fff11263e74c48
+ln -sf copy 1081e37283d90000800003c07f3ef6bf
+ln -sf col-resize 14fef782d02440884392942c11205230
+ln -sf grabbing 208530c400c041818281048008011002
+ln -sf row-resize 2870a09082c103050810ffdffffe0204
+ln -sf alias 3085a0e285430894940527032f8b26df
+ln -sf nwse-resize 38c5dff7c7b8962045400281044508d2
+ln -sf progress 3ecb610c1bf2410f44200f48c40d3599
+ln -sf move 4498f0e0c1937ffe01fd06f973665830
+ln -sf nesw-resize 50585d75b494802d0151028115016902
+ln -sf all-scroll 5aca4d189052212118709018842178c0
+ln -sf help 5c6cd98b3f3ebcb1f9c7f1c204630408
+ln -sf copy 6407b0e94181790501fd1e167b474872
+ln -sf alias 640fb0e74195791501fd1ed57b41487f
+ln -sf move 9081237383d90e509aa00f00170e968f
+ln -sf progress 9116a3ea924ed2162ecab71ba103b17f
+ln -sf all-scroll 9d800788f1b08800ae810202380a0822
+ln -sf row-resize c07385c7190e701020ff7ffffd08103c
+ln -sf nwse-resize c7088f0f3e6c8088236ef8e1e3e70000
+ln -sf help d9ce0ab605698f320427677b458ad60b
+ln -sf pointer e29285e634086352946a0e7090d73106
+ln -sf zoom-in f41c0e382c94c0958e07017e42b00462
+ln -sf zoom-out f41c0e382c97c0938e07017e42800402
+ln -sf nesw-resize fcf1c3c7cd4491d801f1e1c78f100000
+ln -sf move	91532847acc1981c302e17af617818a7
+ln -sf grabbing	0e133a0778f8f0a2f5b3088dc174c952
+ln -sf all-scroll fleur 
+ln -sf all-scroll openhand 
+ln -sf all-scroll plus 
+ln -sf col-resize sb_h_double_arrow 
+ln -sf row-resize sb_v_double_arrow 
+ln -sf all-scroll size_all 
+ln -sf col-resize split_h 
+ln -sf row-resize split_v 
+ln -sf right-arrow arrow 
+ln -sf nesw-resize bottom_left_corner 
+ln -sf nwse-resize bottom_right_corner 
+ln -sf not-allowed forbidden 
+ln -sf right-arrow right_ptr 
+ln -sf nesw-resize size_bdiag 
+ln -sf nwse-resize size_fdiag 
+ln -sf nwse-resize top_left_corner 
+ln -sf nesw-resize top_right_corner 
+ln -sf help dnd-ask 
+ln -sf copy dnd-copy 
+ln -sf move dnd-move 
+ln -sf text ibeam 
+ln -sf help question_arrow 
+ln -sf wait watch 
+ln -sf help whats_this 
+ln -sf text xterm 
+ln -sf alias  dnd-link 
+ln -sf no-drop dnd-none 
+ln -sf pointer hand2 
+ln -sf default left_ptr 
+ln -sf pointer pointing_hand 
+ln -sf up-arrow center_ptr 
+ln -sf grabbing closedhand 
+ln -sf progress left_ptr_watch 
+ln -sf up-arrow up_arrow 
+ln -sf ns-resize bottom_side 
+ln -sf crosshair cross 
+ln -sf ew-resize left_side 
+ln -sf ew-resize right_side 
+ln -sf ew-resize size_hor 
+ln -sf ns-resize size_ver 
+ln -sf ns-resize top_side 
+ln -sf X-cursor X_cursor
