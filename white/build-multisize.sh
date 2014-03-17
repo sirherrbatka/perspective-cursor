@@ -51,7 +51,7 @@ echo "$size 18 18 $PNGDIR/row-resize_$size.png 10 replace" >>  $PNGDIR/row-resiz
 echo "$size 4 19 $PNGDIR/text_$size.png 10 replace" >>  $PNGDIR/text.conf
 echo "$size 18 18 $PNGDIR/vertical-text_$size.png 10 replace" >>  $PNGDIR/vertical-text.conf
 # echo "$size 2 18 $PNGDIR/w-resize_$size.png 10 replace" >>  $PNGDIR/w-resize.conf
-echo "$size 8 2 $PNGDIR/pointer_$size.png 10 replace" >>  $PNGDIR/pointer.conf
+echo "$size 11 5 $PNGDIR/pointer_$size.png 10 replace" >>  $PNGDIR/pointer.conf
 echo "$size 2 2 $PNGDIR/help_$size.png 10 replace" >>  $PNGDIR/help.conf
 echo "$size `echo "scale=1; (21/36)*size" | bc | cut -d . -f -1` `echo "scale=1; (2/36)*$size" | bc | cut -d . -f -1` $PNGDIR/right-arrow_$size.png 10 replace" >>  $PNGDIR/right-arrow.conf
 # This one's not in there, but I put it there for good measure
