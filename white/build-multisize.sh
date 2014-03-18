@@ -32,7 +32,7 @@ mkdir -p $CURSDIR
 echo "Making main cursors..."
 for size in 36; do 
 echo "$size 2 2 $PNGDIR/alias_$size.png 10 replace" >>  $PNGDIR/alias.conf
-echo "$size 18 18 $PNGDIR/all-scroll_$size.png 10 replace" >>  $PNGDIR/all-scroll.conf
+echo "$size 7 6 $PNGDIR/all-scroll_$size.png 10 replace" >>  $PNGDIR/all-scroll.conf
 echo "$size 18 18 $PNGDIR/cell_$size.png 10 replace" >>  $PNGDIR/cell.conf
 echo "$size 18 18 $PNGDIR/col-resize_$size.png 10 replace" >>  $PNGDIR/col-resize.conf
 echo "$size 2 2 $PNGDIR/copy_$size.png 10 replace" >>  $PNGDIR/copy.conf
@@ -51,7 +51,7 @@ echo "$size 18 18 $PNGDIR/row-resize_$size.png 10 replace" >>  $PNGDIR/row-resiz
 echo "$size 4 19 $PNGDIR/text_$size.png 10 replace" >>  $PNGDIR/text.conf
 echo "$size 18 18 $PNGDIR/vertical-text_$size.png 10 replace" >>  $PNGDIR/vertical-text.conf
 # echo "$size 2 18 $PNGDIR/w-resize_$size.png 10 replace" >>  $PNGDIR/w-resize.conf
-echo "$size 11 5 $PNGDIR/pointer_$size.png 10 replace" >>  $PNGDIR/pointer.conf
+echo "$size 3 10 $PNGDIR/pointer_$size.png 10 replace" >>  $PNGDIR/pointer.conf
 echo "$size 2 2 $PNGDIR/help_$size.png 10 replace" >>  $PNGDIR/help.conf
 echo "$size `echo "scale=1; (21/36)*size" | bc | cut -d . -f -1` `echo "scale=1; (2/36)*$size" | bc | cut -d . -f -1` $PNGDIR/right-arrow_$size.png 10 replace" >>  $PNGDIR/right-arrow.conf
 # This one's not in there, but I put it there for good measure
@@ -69,7 +69,7 @@ echo "$size `echo "scale=1; (12/36)*$size" | bc | cut -d . -f -1` `echo "scale=1
 echo "$size 1 1 $PNGDIR/color-picker_$size.png 10 replace" >>  $PNGDIR/color-picker.conf
 
 # Cursors not in the spec, but nice to have for completeness
-echo "$size 18 18 $PNGDIR/grabbing_$size.png 10 replace" >>  $PNGDIR/grabbing.conf
+echo "$size 7 6 $PNGDIR/grabbing_$size.png 10 replace" >>  $PNGDIR/grabbing.conf
 echo "$size 1 1 $PNGDIR/pencil_$size.png 10 replace" >>  $PNGDIR/pencil.conf
 echo "$size 18 18 $PNGDIR/pirate_$size.png 10 replace" >>  $PNGDIR/pirate.conf
 echo "$size 18 18 $PNGDIR/X-cursor_$size.png 10 replace" >>  $PNGDIR/X-cursor.conf
