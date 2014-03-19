@@ -70,7 +70,7 @@ echo "$size 1 1 $PNGDIR/color-picker_$size.png 10 replace" >>  $PNGDIR/color-pic
 
 # Cursors not in the spec, but nice to have for completeness
 echo "$size 7 6 $PNGDIR/grabbing_$size.png 10 replace" >>  $PNGDIR/grabbing.conf
-echo "$size 1 1 $PNGDIR/pencil_$size.png 10 replace" >>  $PNGDIR/pencil.conf
+echo "$size 1 18 $PNGDIR/pencil_$size.png 10 replace" >>  $PNGDIR/pencil.conf
 echo "$size 18 18 $PNGDIR/pirate_$size.png 10 replace" >>  $PNGDIR/pirate.conf
 echo "$size 18 18 $PNGDIR/X-cursor_$size.png 10 replace" >>  $PNGDIR/X-cursor.conf
 echo "$size 18 18 $PNGDIR/zoom-in_$size.png 10 replace" >>  $PNGDIR/zoom-in.conf
