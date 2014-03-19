@@ -87,27 +87,47 @@ cd $MAINDIR
 # Animated cursors
 echo "Making animated cursors..."
 cat > $ANIDIR/wait.conf <<EOF
-36 18 18 busy-1_36.png 65
-36 18 18 busy-2_36.png 65
-36 18 18 busy-4_36.png 65
-36 18 18 busy-5_36.png 65
-36 18 18 busy-6_36.png 65
-36 18 18 busy-7_36.png 65
-36 18 18 busy-8_36.png 65
-36 18 18 busy-9_36.png 65
-36 18 18 busy-10_36.png 65
+36 13 13 busy-1_36.png 100
+36 13 13 busy-2_36.png 100
+36 13 13 busy-4_36.png 100
+36 13 13 busy-5_36.png 100
+36 13 13 busy-6_36.png 100
+36 13 13 busy-7_36.png 100
+36 13 13 busy-8_36.png 100
+36 13 13 busy-9_36.png 100
+36 13 13 busy-10_36.png 100
+36 13 13 busy-11_36.png 100
+36 13 13 busy-12_36.png 100
+36 13 13 busy-13_36.png 100
+36 13 13 busy-14_36.png 100
+36 13 13 busy-15_36.png 100
+36 13 13 busy-16_36.png 100
+36 13 13 busy-17_36.png 100
+36 13 13 busy-18_36.png 100
+36 13 13 busy-19_36.png 100
+36 13 13 busy-20_36.png 100
 EOF
 
 cat > $ANIDIR/progress.conf <<EOF
-36 2 2 half-busy-1_36.png 65
-36 2 2 half-busy-2_36.png 65
-36 2 2 half-busy-4_36.png 65
-36 2 2 half-busy-5_36.png 65
-36 2 2 half-busy-6_36.png 65
-36 2 2 half-busy-7_36.png 65
-36 2 2 half-busy-8_36.png 65
-36 2 2 half-busy-9_36.png 65
-36 2 2 half-busy-10_36.png 65
+36 2 2 half-busy-1_36.png 100
+36 2 2 half-busy-2_36.png 100
+36 2 2 half-busy-4_36.png 100
+36 2 2 half-busy-5_36.png 100
+36 2 2 half-busy-6_36.png 100
+36 2 2 half-busy-7_36.png 100
+36 2 2 half-busy-8_36.png 100
+36 2 2 half-busy-9_36.png 100
+36 2 2 half-busy-10_36.png 100
+36 2 2 half-busy-11_36.png 100
+36 2 2 half-busy-12_36.png 100
+36 2 2 half-busy-13_36.png 100
+36 2 2 half-busy-14_36.png 100
+36 2 2 half-busy-15_36.png 100
+36 2 2 half-busy-16_36.png 100
+36 2 2 half-busy-17_36.png 100
+36 2 2 half-busy-18_36.png 100
+36 2 2 half-busy-19_36.png 100
+36 2 2 half-busy-20_36.png 100
 EOF
 
 cd $ANIDIR

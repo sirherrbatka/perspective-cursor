@@ -2028,19 +2028,6 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter5660-6"
-       x="-0.1147286"
-       width="1.2294573"
-       y="-0.1260156"
-       height="1.2520312">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="19.484528"
-         id="feGaussianBlur5662-6" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
        id="filter5660-4"
        x="-0.1147286"
        width="1.2294573"
@@ -2067,13 +2054,13 @@
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="-33.14726"
-     inkscape:cy="1.2443939"
+     inkscape:zoom="15.999999"
+     inkscape:cx="28.237862"
+     inkscape:cy="24.59437"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g16139"
      inkscape:snap-grids="true"
      inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
@@ -2104,7 +2091,7 @@
     <path
        id="path15625"
        d="M 16.5,2 15,3.46875 18.5,7 15,10.5 16.5,12 20,8.5 23.5,12 25,10.5 21.5,7 25,3.5 23.5,2 20,5.5 16.5,2 z"
-       style="fill:#505050;fill-opacity:0.78431373;stroke:#505050;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;filter:url(#filter16135)"
+       style="fill:#7d7d7d;fill-opacity:0.78431374;stroke:#7d7d7d;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.78431373999999998;stroke-dasharray:none;filter:url(#filter16135)"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"

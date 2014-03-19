@@ -39,13 +39,13 @@
      inkscape:snap-bbox-edge-midpoints="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="4"
-     inkscape:cx="-57.147742"
-     inkscape:cy="15.086722"
+     inkscape:zoom="16"
+     inkscape:cx="11.865706"
+     inkscape:cy="21.339312"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g2993"
+     inkscape:current-layer="g8298"
      inkscape:snap-global="true"
      inkscape:snap-nodes="false"
      inkscape:snap-grids="true">
@@ -1295,19 +1295,6 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter5660-4"
-       x="-0.1147286"
-       width="1.2294573"
-       y="-0.1260156"
-       height="1.2520312">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="19.484528"
-         id="feGaussianBlur5662-4" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
        id="filter5660-4-1"
        x="-0.1147286"
        width="1.2294573"
@@ -1326,11 +1313,11 @@
        id="g8298"
        transform="translate(7.2681564,22.38102)">
       <g
-         style="fill:#505050;fill-opacity:0.78431373;stroke:#505050;stroke-width:256.23504639;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;filter:url(#filter8294)"
+         style="fill:#7d7d7d;fill-opacity:0.78431373999999998;stroke:#7d7d7d;stroke-width:256.23504638999997951;stroke-miterlimit:4;stroke-opacity:0.78431374;stroke-dasharray:none;filter:url(#filter8294)"
          transform="matrix(0.00822774,0,0,-0.00822774,15.579239,-22.240428)"
          id="g7778">
         <path
-           style="fill:#505050;fill-opacity:0.78431373;stroke:#505050;stroke-width:256.23504639;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none"
+           style="fill:#7d7d7d;fill-opacity:0.78431373999999998;stroke:#7d7d7d;stroke-width:256.23504638999997951;stroke-miterlimit:4;stroke-opacity:0.78431374;stroke-dasharray:none"
            inkscape:connector-curvature="0"
            d="m 1312,643 q 0,161 -87,295 L 471,185 Q 608,96 768,96 879,96 979.5,139.5 1080,183 1153,256 q 73,73 116,174.5 43,101.5 43,212.5 z m -999,-299 755,754 q -135,91 -300,91 -148,0 -273,-73 Q 370,1043 297,917 224,791 224,643 224,481 313,344 z M 1536,643 Q 1536,486 1475,343 1414,200 1311.5,97 1209,-6 1066.5,-67 924,-128 768,-128 612,-128 469.5,-67 327,-6 224.5,97 122,200 61,343 0,486 0,643 0,800 61,942.5 122,1085 224.5,1188 q 102.5,103 245,164 142.5,61 298.5,61 156,0 298.5,-61 142.5,-61 245,-164 Q 1414,1085 1475,942.5 1536,800 1536,643 z"
            id="path7780" />

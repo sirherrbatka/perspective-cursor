@@ -1981,19 +1981,6 @@
        fx="36"
        fy="23.375"
        r="6.5" />
-    <filter
-       inkscape:collect="always"
-       id="filter5359"
-       x="-0.15273391"
-       width="1.3054678"
-       y="-0.098820753"
-       height="1.1976415"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.70003035"
-         id="feGaussianBlur5361" />
-    </filter>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4630"
@@ -3521,9 +3508,9 @@
      inkscape:bbox-nodes="false"
      inkscape:snap-to-guides="true"
      inkscape:snap-global="true"
-     inkscape:zoom="4.0000003"
-     inkscape:cx="-21.540897"
-     inkscape:cy="-6.8674349"
+     inkscape:zoom="11.313709"
+     inkscape:cx="3.2948225"
+     inkscape:cy="21.772295"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -3577,7 +3564,7 @@
      id="text4128"
      y="-17.851883"
      x="24.262602"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#505050;fill-opacity:0.78431373;stroke:#505050;stroke-width:1.39141679;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter5007);font-family:Lato;-inkscape-font-specification:Sans Bold"
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7d7d7d;fill-opacity:0.78431373999999998;stroke:#7d7d7d;stroke-width:1.39141679000000007;stroke-miterlimit:4;stroke-opacity:0.78431374;stroke-dasharray:none;filter:url(#filter5007);font-family:Lato;-inkscape-font-specification:Sans Bold"
      xml:space="preserve"><tspan
        y="-17.851883"
        x="24.262602"

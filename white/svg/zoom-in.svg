@@ -21,15 +21,6 @@
   <defs
      id="defs2997">
     <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter19635">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.50422013"
-         id="feGaussianBlur19637" />
-    </filter>
-    <filter
        inkscape:collect="always"
        id="filter3786">
       <feGaussianBlur
@@ -54,8 +45,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.2001809"
-     inkscape:cx="5.6769765"
-     inkscape:cy="12.356533"
+     inkscape:cx="-4.8665993"
+     inkscape:cy="14.280014"
      inkscape:current-layer="g3818"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -131,7 +122,7 @@
            height="3"
            width="9.999999"
            id="rect3790"
-           style="fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#505050;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;filter:url(#filter3792)" />
+           style="fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#232323;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.78431374;stroke-dasharray:none;filter:url(#filter3792)" />
         <rect
            style="fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="rect2997"
@@ -158,7 +149,7 @@
            transform="translate(0,12)"
            id="path3767"
            d="m -38,-8 c -5.519718,0 -10,4.4802816 -10,10 0,5.5197184 4.480282,10 10,10 5.519718,0 10,-4.4802816 10,-10 0,-5.5197184 -4.480282,-10 -10,-10 z m 0,3 c 3.869129,0 7,3.1308712 7,7 0,3.8691288 -3.130871,7 -7,7 -3.869129,0 -7,-3.1308712 -7,-7 0,-3.8691288 3.130871,-7 7,-7 z"
-           style="fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#505050;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;filter:url(#filter3786)" />
+           style="fill:#232323;fill-opacity:0.78431373999999998;fill-rule:nonzero;stroke:#232323;stroke-width:2;stroke-miterlimit:4;stroke-opacity:0.78431374;stroke-dasharray:none;filter:url(#filter3786)" />
         <path
            inkscape:connector-curvature="0"
            style="fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none"
