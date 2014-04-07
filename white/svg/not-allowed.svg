@@ -40,12 +40,12 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="16"
-     inkscape:cx="11.865706"
+     inkscape:cx="-1.603044"
      inkscape:cy="21.339312"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8298"
+     inkscape:current-layer="g5676"
      inkscape:snap-global="true"
      inkscape:snap-nodes="false"
      inkscape:snap-grids="true">
@@ -1351,7 +1351,7 @@
          sodipodi:nodetypes="cccccccccccccccccccccc" />
       <path
          sodipodi:nodetypes="cccccccccccccccccccccc"
-         style="fill:#f0f0f0;fill-opacity:1;stroke:none;display:inline"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
          d="m 137.54682,126.46038 53.2246,54.98626 -15.97545,16.50421 -37.26237,-38.48988 -32.3276,33.39336 121.95922,125.99596 -33.16979,8.79462 c -22.59205,0 -21.53305,47.98407 -10.2454,70.01946 l 186.1852,0 142.86634,-147.5956 -194.24035,-200.664218 -22.09164,-22.82811 -31.9509,33.00845 22.09546,22.8268 -15.97695,16.50266 -37.19133,-38.42233 -31.94816,33.01126 37.18825,38.419168 -15.9716,16.50293 -53.22458,-54.986248 -31.97689,33.034238 z"
          id="path5086-0-6"
          inkscape:connector-curvature="0" />

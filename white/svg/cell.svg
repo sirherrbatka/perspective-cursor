@@ -31,7 +31,7 @@
      inkscape:snap-grids="true"
      inkscape:snap-page="true"
      inkscape:zoom="9.8333338"
-     inkscape:cx="35.447688"
+     inkscape:cx="13.532435"
      inkscape:cy="10.099865"
      inkscape:window-x="0"
      inkscape:window-y="20"
@@ -61,18 +61,6 @@
      id="defs22">
     <filter
        inkscape:collect="always"
-       id="filter17105"
-       x="-0.12"
-       width="1.24"
-       y="-0.12"
-       height="1.24">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.95"
-         id="feGaussianBlur17107" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter136971"
        x="-0.12"
        width="1.24"
@@ -100,6 +88,6 @@
      sodipodi:nodetypes="cccccccccccccccccccccccccc"
      id="rect6212"
      d="m 8,8 0,19 19,0 0,-19 z m 2,2 7,0 0,2 1,0 0,-2 7,0 0,7 -2,0 0,1 2,0 0,7 -7,0 0,-2 -1,0 0,2 -7,0 0,-6.96875 2,0 0,-1 -2,0 z"
-     style="color:#000000;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.99999988000000006;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
      inkscape:connector-curvature="0" />
 </svg>

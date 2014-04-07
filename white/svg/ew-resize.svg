@@ -353,18 +353,6 @@
     </linearGradient>
     <filter
        inkscape:collect="always"
-       id="filter3810"
-       x="-0.094199866"
-       width="1.1883997"
-       y="-0.16741585"
-       height="1.3348317">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="17.55649"
-         id="feGaussianBlur3812" />
-    </filter>
-    <filter
-       inkscape:collect="always"
        id="filter8171"
        x="-0.10062506"
        width="1.2012501"
@@ -391,9 +379,9 @@
      showgrid="true"
      inkscape:snap-bbox="false"
      inkscape:snap-page="true"
-     inkscape:zoom="4.0000003"
-     inkscape:cx="-30.786586"
-     inkscape:cy="-30.336597"
+     inkscape:zoom="11.313709"
+     inkscape:cx="3.3782501"
+     inkscape:cy="35.883971"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -451,7 +439,7 @@
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:45.92578125;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#f0f0f0;fill-opacity:1;stroke:none"
+         style="fill:#ffffff;fill-opacity:1;stroke:none"
          d="m 376.3106,117.58654 -146.84832,151.70883 146.84832,151.70884 0,-116.69911 158.14434,0 0,116.69911 146.84832,-151.70884 -146.84832,-151.70883 0,116.6991 -158.14434,0 0,-116.6991 z"
          id="rect4931" />
     </g>

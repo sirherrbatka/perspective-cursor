@@ -417,9 +417,9 @@
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
-     inkscape:zoom="6.7705467"
-     inkscape:cx="11.777803"
-     inkscape:cy="45.864057"
+     inkscape:zoom="9.574999"
+     inkscape:cx="7.2830506"
+     inkscape:cy="40.462939"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -498,7 +498,7 @@
      style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#f0f0f0;fill-opacity:1;stroke:none"
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
      d="M 25,14 18.5,7.5 12,14 l 5,0 0,7 -5,0 6.5,6.5 6.5,-6.5 -5,0 0,-7 5,0 z"
      id="rect4931" />
 </svg>

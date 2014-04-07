@@ -429,9 +429,9 @@
      showgrid="true"
      inkscape:snap-bbox="true"
      inkscape:snap-page="false"
-     inkscape:zoom="8"
-     inkscape:cx="5.83655"
-     inkscape:cy="-14.341837"
+     inkscape:zoom="16"
+     inkscape:cx="13.869335"
+     inkscape:cy="9.6600564"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -487,7 +487,7 @@
        inkscape:connector-curvature="0"
        id="rect9176"
        d="m 15.96875,11 3.46875,3.4375 -5,5 L 11,15.96875 11,25 l 9.03125,0 -3.46875,-3.4375 5,-5 L 25,20.03125 25,11 15.96875,11 z"
-       style="fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <rect
        y="0"
        x="0"
